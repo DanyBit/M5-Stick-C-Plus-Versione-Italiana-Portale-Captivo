@@ -1,3 +1,5 @@
+// Pagine HTTPS Migliorata, aggiornata e tradotta  | IG: @_danybit_ // 
+
 
 
 #define DEFAULT_AP_SSID_NAME "BITCOIN WALLET $ - OPEN"
